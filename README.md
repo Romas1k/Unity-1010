@@ -1,2 +1,2 @@
 # Unity-1010
-Simple casual games 
+Simple casual game
